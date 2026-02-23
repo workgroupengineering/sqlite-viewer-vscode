@@ -1,5 +1,7 @@
 # CHANGELOG
 ## v26.2.5 (Pre-Release, Hotfix)
+_Released on February 23, 2026_
+
 - [PRO] Fixed an issue that prevented inline foreign key previews from resolving
 - [PRO] Inline FK content no longer loads for collapsed items (only loads when expanded).
 
