@@ -1,5 +1,5 @@
 # CHANGELOG
-## v26.2.5 (Pre-Release, Hotfix)
+## v26.2.5 (Pre-Release)
 _Released on February 23, 2026_
 
 - [PRO] Fixed an issue that prevented inline foreign key previews from resolving
